@@ -4,8 +4,8 @@
  */
 
 public class Node {
-    int valor;
-    Node dir;
-    Node esq;
+    public int valor;
+    public Node dir;
+    public Node esq;
 
 }

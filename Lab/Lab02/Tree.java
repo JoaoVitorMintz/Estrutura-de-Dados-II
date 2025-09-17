@@ -9,7 +9,7 @@ import java.util.Random;
 
 public class Tree {
 
-    public Node raiz;
+    private Node raiz;
 
     public void excluirArvore() {
         this.raiz = null;
